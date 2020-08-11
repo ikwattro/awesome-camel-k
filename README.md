@@ -34,7 +34,7 @@
 
 #### 2018
 
-* [Introducing Camel K - Nicola Ferraro](https://www.nicolaferraro.me/2018/10/15/introducing-camel-k/)]
+* [Introducing Camel K - Nicola Ferraro](https://www.nicolaferraro.me/2018/10/15/introducing-camel-k/)
 * [Camel K on AKS - Haris Secic](https://dev.to/greenroommate/apache-camel-k-on-aks-quick-setup-1lm0)
 
 ### Videos
