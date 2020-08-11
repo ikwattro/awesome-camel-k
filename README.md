@@ -16,7 +16,7 @@
 
 ### Slides
 
-#### 2019
+#### 2019
 
 * [Apache Camel K - Claus Ibsen](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen-v2)
 
