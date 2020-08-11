@@ -6,19 +6,27 @@
 
 * [Camel K Official Documentation](https://camel.apache.org/camel-k/latest/index.html)
 
+---
+
 ### Forums
 
 * [Camel K Gitter](https://gitter.im/apache/camel-k)
 
+---
+
 ### Examples
 
 * [Camel K Official Examples on Github](https://github.com/apache/camel-k-examples)
+
+---
 
 ### Slides
 
 #### 2019
 
 * [Apache Camel K - Claus Ibsen](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen-v2)
+
+---
 
 ### Articles
 
@@ -36,6 +44,8 @@
 
 * [Introducing Camel K - Nicola Ferraro](https://www.nicolaferraro.me/2018/10/15/introducing-camel-k/)
 * [Camel K on AKS - Haris Secic](https://dev.to/greenroommate/apache-camel-k-on-aks-quick-setup-1lm0)
+
+---
 
 ### Videos
 
