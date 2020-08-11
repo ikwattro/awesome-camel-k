@@ -20,7 +20,7 @@
 
 * [Apache Camel K - Claus Ibsen](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen-v2)
 
-### Articles
+### Articles
 
 #### 2020
 
@@ -32,19 +32,19 @@
 * [Build and Deploy an API with Camel K on Red Hat Openshift - Abdelattif Bouchama](https://developers.redhat.com/blog/2019/04/25/build-and-deploy-an-api-with-camel-k-on-red-hat-openshift/)
 * 
 
-#### 2018
+#### 2018
 
 * [Introducing Camel K - Nicola Ferraro](https://www.nicolaferraro.me/2018/10/15/introducing-camel-k/)]
 * [Camel K on AKS - Haris Secic](https://dev.to/greenroommate/apache-camel-k-on-aks-quick-setup-1lm0)
 
 ### Videos
 
-#### 2019
+#### 2019
 
 * [What is Apache Camel K](https://youtu.be/51x9BewGCYA)
 * [Kubernetes Enterprise Integration Patterns with Camel K](https://www.youtube.com/watch?v=51x9BewGCYA&feature=youtu.be)
 * [Camel K in a Nutshell](https://www.youtube.com/watch?v=LaBvBonUC6g)
 
-#### 2018
+#### 2018
 
 * [Camel K on KNative](https://www.youtube.com/watch?v=btf_e2GniXM&feature=youtu.be)
