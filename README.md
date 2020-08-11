@@ -6,6 +6,12 @@
 
 * [Camel K Official Documentation](https://camel.apache.org/camel-k/latest/index.html)
 
+### Technical Links
+
+* [Camel K Operator](https://operatorhub.io/operator/camel-k)
+* [Camel K Helm](https://hub.helm.sh/charts/camel-k/camel-k)
+* [VSCode tooling for CamelK](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-camelk)
+
 ---
 
 ### Forums
@@ -14,9 +20,10 @@
 
 ---
 
-### Examples
+### Examples & Tutorials
 
 * [Camel K Official Examples on Github](https://github.com/apache/camel-k-examples)
+* [Knative - Eventing with Camel K](https://redhat-developer-demos.github.io/knative-tutorial/knative-tutorial-camelk/0.3.3/index.html)
 
 ---
 
@@ -33,9 +40,11 @@
 #### 2020
 
 * [Camel K 1.0: The serverless integration platform goes GA](https://developers.redhat.com/blog/2020/06/18/camel-k-1-0-the-serverless-integration-platform-goes-ga/)
+* [Apache Camel K 1.0 is here – Why should you care](https://www.javacodegeeks.com/2020/06/apache-camel-k-1-0-is-here-why-should-you-care.html)
 * [Build and deploy a serverless app with Camel K and Red Hat OpenShift Serverless 1.5.0 Tech Preview](https://developers.redhat.com/blog/2020/04/24/build-and-deploy-a-serverless-app-with-camel-k-and-red-hat-openshift-serverless-1-5-0-tech-preview/)
 * [Camel K standalone Java file: Now with Java language support](https://developers.redhat.com/blog/2020/02/03/camel-k-standalone-java-file-now-with-java-language-support/)
 * [Camel K in a Nutshell - Christina Lin](https://dzone.com/articles/six-reasons-why-you-will-love-camel-k-1)
+* [Lets Learn Integration with docker, minikube and Camel K](https://medium.com/@tharangarajapaksha/lets-learn-integration-with-docker-minikube-and-camel-k-dca91854a031)
 * [Why Camel K?](https://dzone.com/articles/why-camel-k)
 * [Six Reasons to love Camel K](https://developers.redhat.com/blog/2020/05/12/six-reasons-to-love-camel-k/)
 
