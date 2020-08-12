@@ -10,6 +10,7 @@
 
 * [Camel K Operator](https://operatorhub.io/operator/camel-k)
 * [Camel K Helm](https://hub.helm.sh/charts/camel-k/camel-k)
+* [Knative Camel Source](https://knative.dev/docs/eventing/samples/apache-camel-source/)
 * [VSCode tooling for CamelK](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-camelk)
 
 ---
