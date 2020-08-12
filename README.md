@@ -40,6 +40,7 @@
 #### 2020
 
 * [Camel K 1.0: The serverless integration platform goes GA](https://developers.redhat.com/blog/2020/06/18/camel-k-1-0-the-serverless-integration-platform-goes-ga/)
+* [Tracking COVID-19 using Quarkus, AMQ Streams, and Camel K on OpenShift](https://developers.redhat.com/blog/2020/06/15/tracking-covid-19-using-quarkus-amq-streams-and-camel-k-on-openshift/)
 * [Apache Camel K 1.0 is here – Why should you care](https://www.javacodegeeks.com/2020/06/apache-camel-k-1-0-is-here-why-should-you-care.html)
 * [Build and deploy a serverless app with Camel K and Red Hat OpenShift Serverless 1.5.0 Tech Preview](https://developers.redhat.com/blog/2020/04/24/build-and-deploy-a-serverless-app-with-camel-k-and-red-hat-openshift-serverless-1-5-0-tech-preview/)
 * [Camel K standalone Java file: Now with Java language support](https://developers.redhat.com/blog/2020/02/03/camel-k-standalone-java-file-now-with-java-language-support/)
