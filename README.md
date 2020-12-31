@@ -40,6 +40,7 @@
 
 #### 2020
 
+* [Kamelets](https://www.nicolaferraro.me/2020/10/12/kamelets/)
 * [Event-Driven Serverless Applications with Camel K](https://developers.redhat.com/blog/2020/11/17/event-driven-serverless-applications-with-camel-k/)
 * [Camel K 1.0: The serverless integration platform goes GA](https://developers.redhat.com/blog/2020/06/18/camel-k-1-0-the-serverless-integration-platform-goes-ga/)
 * [Tracking COVID-19 using Quarkus, AMQ Streams, and Camel K on OpenShift](https://developers.redhat.com/blog/2020/06/15/tracking-covid-19-using-quarkus-amq-streams-and-camel-k-on-openshift/)
