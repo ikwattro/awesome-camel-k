@@ -25,7 +25,7 @@
 
 * [Camel K Official Examples on Github](https://github.com/apache/camel-k-examples)
 * [Knative - Eventing with Camel K](https://redhat-developer-demos.github.io/knative-tutorial/knative-tutorial-camelk/0.3.3/index.html)
-* [Camel K on Minikube with Isto and Knative](https://github.com/ikwattro/camel-k-istio-knative-minikube)
+* [Camel K on Minikube with Istio and Knative](https://github.com/ikwattro/camel-k-istio-knative-minikube)
 * [Openshift Integrations](https://github.com/openshift-integration)
 
 ---
