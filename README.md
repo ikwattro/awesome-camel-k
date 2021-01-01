@@ -34,6 +34,7 @@
 
 #### 2019
 
+* [Integration Patterns in a Serverless World: The Good Parts](https://www.slideshare.net/bibryam/integration-patterns-in-the-serverless-world)
 * [Apache Camel K - Claus Ibsen](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen-v2)
 
 ---
