@@ -41,6 +41,10 @@
 
 ### Articles
 
+#### 2021
+
+* [How to Java Debug a Camel K Integration in VS Code with Camel K 1.3](https://camel.apache.org/blog/2021/01/DebugInVSCodeWithCamelK1.3.0/)
+
 #### 2020
 
 * [Kamelets](https://www.nicolaferraro.me/2020/10/12/kamelets/)
