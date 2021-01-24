@@ -27,6 +27,7 @@
 * [Knative - Eventing with Camel K](https://redhat-developer-demos.github.io/knative-tutorial/knative-tutorial-camelk/0.3.3/index.html)
 * [Camel K on Minikube with Istio and Knative](https://github.com/ikwattro/camel-k-istio-knative-minikube)
 * [Openshift Integrations](https://github.com/openshift-integration)
+* [Camel K Integrations Examples](https://github.com/ikwattro/camel-k-integrations-examples)
 
 ---
 
@@ -43,6 +44,7 @@
 
 #### 2021
 
+* [Taking Apache Camel for a ride on Kubernetes](https://christophewillemsen.com/2021/01/24/taking-apache-camel-for-a-ride-on-kubernetes/)
 * [How to Java Debug a Camel K Integration in VS Code with Camel K 1.3](https://camel.apache.org/blog/2021/01/DebugInVSCodeWithCamelK1.3.0/)
 
 #### 2020
