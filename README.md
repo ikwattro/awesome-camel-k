@@ -79,6 +79,7 @@
 
 #### 2020
 
+* [Writing Serverless Functions with Camel K and Knative](https://www.youtube.com/watch?v=UUF0frNdcrg&feature=youtu.be&ab_channel=HugoGuerrero)
 * [Event-Driven Serverless Applications with Camel K](https://www.youtube.com/watch?v=hlUzLC71nAM&feature=emb_logo&ab_channel=RedHatDeveloper)
 
 #### 2019
