@@ -78,6 +78,10 @@
 
 ### Videos
 
+#### 2021
+
+* [Making your SAP integrations Serverless](https://www.youtube.com/watch?v=V419524sHBE&ab_channel=ChristinaLin)
+
 #### 2020
 
 * [Writing Serverless Functions with Camel K and Knative](https://www.youtube.com/watch?v=UUF0frNdcrg&feature=youtu.be&ab_channel=HugoGuerrero)
