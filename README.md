@@ -5,6 +5,7 @@
 ### Documentation
 
 * [Camel K Official Documentation](https://camel.apache.org/camel-k/latest/index.html)
+* [Kamelets Developer Guide](https://camel.apache.org/camel-k/latest/kamelets/kamelets-dev.html)
 
 ### Technical Links
 
@@ -28,6 +29,9 @@
 * [Camel K on Minikube with Istio and Knative](https://github.com/ikwattro/camel-k-istio-knative-minikube)
 * [Openshift Integrations](https://github.com/openshift-integration)
 * [Camel K Integrations Examples](https://github.com/ikwattro/camel-k-integrations-examples)
+
+* [Serverless Image Classification inference with DJL and Camel-K](https://github.com/mgubaidullin/dj-kamel)
+* 
 
 ---
 
