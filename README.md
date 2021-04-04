@@ -73,7 +73,6 @@
 * [Build and Deploy an API with Camel K on Red Hat Openshift - Abdelattif Bouchama](https://developers.redhat.com/blog/2019/04/25/build-and-deploy-an-api-with-camel-k-on-red-hat-openshift/)
 * [Subsecond deployment and startup of Apache Camel applications](https://developers.redhat.com/blog/2019/05/20/subsecond-deployment-and-startup-of-apache-camel-applications/)
 * [Sending a telegram with Apache Camel K and Visual Studio Code](https://developers.redhat.com/blog/2019/09/30/sending-a-telegram-with-apache-camel-k-and-visual-studio-code/)
-* 
 
 #### 2018
 
