@@ -18,7 +18,7 @@
 
 ### Forums
 
-* [Camel K Gitter](https://gitter.im/apache/camel-k)
+* [Camel K Zulip](https://camel.zulipchat.com/#narrow/stream/257299-camel-k)
 
 ---
 
