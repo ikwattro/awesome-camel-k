@@ -31,7 +31,6 @@
 * [Camel K Integrations Examples](https://github.com/ikwattro/camel-k-integrations-examples)
 
 * [Serverless Image Classification inference with DJL and Camel-K](https://github.com/mgubaidullin/dj-kamel)
-* 
 
 ---
 
