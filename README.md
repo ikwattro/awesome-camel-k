@@ -45,6 +45,7 @@
 #### 2021
 
 * [Distributed Aggregate EIP on Kubernetes with Camel-K and Hazelcast IMDG](https://christophewillemsen.com/2021/04/02/distributed-aggregate-eip-on-kubernetes-with-camel-k-and-hazelcast-in-memory-data-grid/)
+* [Making your SAP integration Serverless](https://blogs.sap.com/2021/03/05/making-your-sap-integration-serverless/)
 * [Decoupling your Camel-K Enterprise Integrations with the Knative Event Mesh](https://christophewillemsen.com/2021/02/06/decoupling-your-camel-k-enterprise-integrations-with-the-knative-event-mesh/)
 * [Taking Apache Camel for a ride on Kubernetes](https://christophewillemsen.com/2021/01/24/taking-apache-camel-for-a-ride-on-kubernetes/)
 * [How to Java Debug a Camel K Integration in VS Code with Camel K 1.3](https://camel.apache.org/blog/2021/01/DebugInVSCodeWithCamelK1.3.0/)
