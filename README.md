@@ -47,6 +47,7 @@
 
 #### 2021
 
+* [Camel K, Kind and a Local Registry](https://www.orpiske.net/2021/05/camel-k-kind-and-a-local-registry/)
 * [Distributed Aggregate EIP on Kubernetes with Camel-K and Hazelcast IMDG](https://christophewillemsen.com/2021/04/02/distributed-aggregate-eip-on-kubernetes-with-camel-k-and-hazelcast-in-memory-data-grid/)
 * [Making your SAP integration Serverless](https://blogs.sap.com/2021/03/05/making-your-sap-integration-serverless/)
 * [Decoupling your Camel-K Enterprise Integrations with the Knative Event Mesh](https://christophewillemsen.com/2021/02/06/decoupling-your-camel-k-enterprise-integrations-with-the-knative-event-mesh/)
