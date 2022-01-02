@@ -38,6 +38,7 @@
 
 #### 2019
 
+* [Camel Day Italia 2021 - Camel K](https://www.slideshare.net/nicolaferraro/camel-day-italia-2021-camel-k)
 * [Integration Patterns in a Serverless World: The Good Parts](https://www.slideshare.net/bibryam/integration-patterns-in-the-serverless-world)
 * [Apache Camel K - Claus Ibsen](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen-v2)
 
@@ -47,6 +48,8 @@
 
 #### 2021
 
+* [Implementing the Filter EIP using Camel-K and Kogito](https://blog.kie.org/2021/12/implementing-the-filter-eip-using-camel-k-and-kogito.html)
+* [Use Apache Camel-K to create Microservice Apps with Instana](https://community.ibm.com/community/user/aiops/blogs/rui-liu/2021/08/16/use-apache-camel-k-to-create-microservice-instana)
 * [Camel K, Kind and a Local Registry](https://www.orpiske.net/2021/05/camel-k-kind-and-a-local-registry/)
 * [Distributed Aggregate EIP on Kubernetes with Camel-K and Hazelcast IMDG](https://cwillemsen.com/2021/04/02/distributed-aggregate-eip-on-kubernetes-with-camel-k-and-hazelcast-in-memory-data-grid/)
 * [Making your SAP integration Serverless](https://blogs.sap.com/2021/03/05/making-your-sap-integration-serverless/)
