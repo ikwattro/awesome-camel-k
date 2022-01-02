@@ -91,6 +91,8 @@
 
 #### 2021
 
+* [From Camel to Kamelets : New connectors for event-driven applications](https://www.youtube.com/watch?v=xVL1gJ5AJVg&ab_channel=TheApacheFoundation)
+* [Testing Kamelets - Verify event sources and sinks with YAKS](https://www.youtube.com/watch?v=mIfmMFOgdbI&feature=youtu.be&ab_channel=TheApacheFoundation)
 * [Camel-K on IntelliJ - Setup the template](https://www.youtube.com/watch?v=nuPBDfEG0D0&ab_channel=OtavioRodolfoPiske)
 * [Camel-K on IntelliJ - Handle dependencies](https://www.youtube.com/watch?v=1pFndVXn-G4&feature=youtu.be)
 * [Making your SAP integrations Serverless](https://www.youtube.com/watch?v=V419524sHBE&ab_channel=ChristinaLin)
