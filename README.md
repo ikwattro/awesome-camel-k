@@ -13,6 +13,7 @@
 * [Camel K Helm](https://hub.helm.sh/charts/camel-k/camel-k)
 * [Knative Camel Source](https://knative.dev/docs/eventing/samples/apache-camel-source/)
 * [VSCode tooling for CamelK](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-camelk)
+* [Karavan - Integration Designer for Camel](https://github.com/apache/camel-karavan)
 
 ---
 
@@ -91,6 +92,7 @@
 
 #### 2021
 
+* [Karavan Serverless](https://www.youtube.com/watch?v=m8BCqwHWHCo&feature=youtu.be&ab_channel=karavan)
 * [From Camel to Kamelets : New connectors for event-driven applications](https://www.youtube.com/watch?v=xVL1gJ5AJVg&ab_channel=TheApacheFoundation)
 * [Testing Kamelets - Verify event sources and sinks with YAKS](https://www.youtube.com/watch?v=mIfmMFOgdbI&feature=youtu.be&ab_channel=TheApacheFoundation)
 * [Camel-K on IntelliJ - Setup the template](https://www.youtube.com/watch?v=nuPBDfEG0D0&ab_channel=OtavioRodolfoPiske)
