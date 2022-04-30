@@ -25,6 +25,7 @@
 
 ### Examples & Tutorials
 
+* [Developing and Managing Integrations Using Camel-K - RedHat Integration 2022.Q1 (PDF)](https://access.redhat.com/documentation/en-us/red_hat_integration/2022.q1/pdf/developing_and_managing_integrations_using_camel_k/red_hat_integration-2022.q1-developing_and_managing_integrations_using_camel_k-en-us.pdf)
 * [Camel K Official Examples on Github](https://github.com/apache/camel-k-examples)
 * [Knative - Eventing with Camel K](https://redhat-developer-demos.github.io/knative-tutorial/knative-tutorial-camelk/0.3.3/index.html)
 * [Camel K on Minikube with Istio and Knative](https://github.com/ikwattro/camel-k-istio-knative-minikube)
@@ -89,6 +90,10 @@
 ---
 
 ### Videos
+
+#### 2022
+
+* [Serverless with Camel-K and Openshift](https://www.youtube.com/watch?v=wQ668r6nto4&ab_channel=DevConf)
 
 #### 2021
 
