@@ -9,6 +9,7 @@
 
 ### Technical Links
 
+* [Camel-K 2022 Roadmap](https://camel.apache.org/blog/2022/03/camel-k-roadmap-2022/)
 * [Camel K Operator](https://operatorhub.io/operator/camel-k)
 * [Camel K Helm](https://hub.helm.sh/charts/camel-k/camel-k)
 * [Knative Camel Source](https://knative.dev/docs/eventing/samples/apache-camel-source/)
