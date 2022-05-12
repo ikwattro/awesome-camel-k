@@ -24,6 +24,13 @@
 
 ---
 
+### Tools
+
+* [Camel K Plugin for IntelliJ](http://www.orpiske.net/files/camel-k-idea-plugin/)
+
+-
+---
+
 ### Examples & Tutorials
 
 * [Developing and Managing Integrations Using Camel-K - RedHat Integration 2022.Q1 (PDF)](https://access.redhat.com/documentation/en-us/red_hat_integration/2022.q1/pdf/developing_and_managing_integrations_using_camel_k/red_hat_integration-2022.q1-developing_and_managing_integrations_using_camel_k-en-us.pdf)
